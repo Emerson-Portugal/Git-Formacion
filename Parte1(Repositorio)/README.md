@@ -41,6 +41,7 @@ git status
 ``` 
 git add archivo
 ```
+![Alt text]( /git-add.png "Proceso de git")
 
 ### Cuarto Paso 
 
@@ -49,7 +50,7 @@ git add archivo
 ```
 git commit -m "Primer commit"
 ```
-
+![Alt text]( /git-commit.png "Proceso de git")
 
 ### Quinto paso 
 
@@ -73,6 +74,6 @@ git remote add origin https://github.com/Emerson-Portugal/Git-Formacion.git
 > Aqui nos va a pedir que ingresemos nuestro  usuario y contraseña
 
 
-#### Ingreso de usuario
+#### `Ingreso de usuario`
 
-#### Ingreso de contraseña
+#### `Ingreso de contraseña`
