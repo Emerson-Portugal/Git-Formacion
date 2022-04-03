@@ -68,7 +68,7 @@ git commit -m "Primer commit"
 git remote add origin https://github.com/Emerson-Portugal/Git-Formacion.git
 
 ```
-
+> Se va a encargar de hacer la conexion  con el repositorio github
 ### Septimo Paso
 
 > Aqui nos va a pedir que ingresemos nuestro  usuario y contraseña
