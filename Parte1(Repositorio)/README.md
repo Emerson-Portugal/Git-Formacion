@@ -68,6 +68,9 @@ git commit -m "Primer commit"
 git remote add origin https://github.com/Emerson-Portugal/Git-Formacion.git
 
 ```
+![Alt text]( /git-remote.png "Proceso de git")
+
+
 > Se va a encargar de hacer la conexion  con el repositorio github
 ### Septimo Paso
 
