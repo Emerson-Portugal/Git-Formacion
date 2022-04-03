@@ -17,7 +17,7 @@ $ git config --global user.email johndoe@example.com
 ```
 git init
 ```
-![Alt text]( /git-init.png "Proceso de git")
+![Alt text](../imagenes/git-init.png "Proceso de git")
 
 >Esto activara la raiz    `   master o main `, cual nos va a permitir seguir con el proceso
 
@@ -29,7 +29,7 @@ git init
 ```
 git status 
 ```
-![Alt text]( /git-status.png "Proceso de git")
+![Alt text](../imagenes/git-status.png "Proceso de git")
 
 > Con esto vamos a sabes que archivos vamos a querer subir al repositorio
 
@@ -41,7 +41,7 @@ git status
 ``` 
 git add archivo
 ```
-![Alt text]( /git-add.png "Proceso de git")
+![Alt text](../imagenes/git-add.png "Proceso de git")
 
 ### Cuarto Paso 
 
@@ -50,13 +50,13 @@ git add archivo
 ```
 git commit -m "Primer commit"
 ```
-![Alt text]( /git-commit.png "Proceso de git")
+![Alt text](../imagenes/git-commit.png "Proceso de git")
 
 ### Quinto paso 
 
 > Vamos a crear nuestro repositorio, en el cual vamos subir nuestro archivo
 
-![Alt text]( /git-repositorio.png "Proceso de git")
+![Alt text](../imagenes/git-repositorio.png "Proceso de git")
 
 > En los espacios para llenar, le puedes dar el nombre que tu gustes, con los valores que mas te con viene.
 
@@ -68,7 +68,7 @@ git commit -m "Primer commit"
 git remote add origin https://github.com/Emerson-Portugal/Git-Formacion.git
 
 ```
-![Alt text]( /git-remote.png "Proceso de git")
+![Alt text](../imagenes/git-remote.png "Proceso de git")
 
 
 > Se va a encargar de hacer la conexion  con el repositorio github
@@ -79,14 +79,23 @@ git remote add origin https://github.com/Emerson-Portugal/Git-Formacion.git
 
 ```
 git push -u origin `main o master`
-
 ```
+
+![Alt text](../imagenes/git-push.png "Proceso de git")
+
 
 ### Octavo Paso
 
 > Aqui nos va a pedir que ingresemos nuestro  usuario y contraseña
 
-
 #### `Ingreso de usuario`
 
+> Aqui vas a ingresar tu nombre de usuario de github
+
+
+![Alt text](../imagenes/usuario.png "Proceso de git")
+
+
 #### `Ingreso de contraseña`
+
+![Alt text](../imagenes/password.png "Proceso de git")
