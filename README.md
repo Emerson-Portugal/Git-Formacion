@@ -31,3 +31,20 @@
      git code . 
 
 > Con `git code . ` vas a poder habir tu editor por defecto, este comando te va servir de mucho a la hora de edicion de proyectos 
+
+
+## Codigo de ayuda
+
+> En este comando vas a poder sobre escribir todo tu repositorio, al momento de hacer una modificacion general (implementacion de carpetas o cambio de nombre)
+
+
+> `Error`
+```
+! [rejected]  master -> master (fetch first)'"
+```
+
+> Solucion
+
+```
+git push origin master --force
+```
