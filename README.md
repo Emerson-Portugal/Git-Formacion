@@ -1,5 +1,12 @@
 # Principios sobre `Git`
-:zap: :zap: :zap: :zap:
+
+
+<div style="display: flex">
+  <img src="imgenes/git.gif" width=200>
+  <img src="imgenes/git.gif" width=200>
+  <img src="imgenes/git.gif" width=200>
+  <img src="imgenes/git.gif" width=200>
+</div>
 > ¿QUE ES GIT? (https://git-scm.com/)
 
 > Es un controlador de versiones, que nos va a ayudar a ser eficientes, como tambien nos ayudara a la mantenivilidad de un proyecto, ya que vamos a tener multiples verciones del proyecto. 
