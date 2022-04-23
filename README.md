@@ -1,11 +1,10 @@
 # Principios sobre `Git`
 
-
 <div style="display: flex">
-  <img src="imgenes/git.gif" width=200>
-  <img src="imgenes/git.gif" width=200>
-  <img src="imgenes/git.gif" width=200>
-  <img src="imgenes/git.gif" width=200>
+  <img src="imagenes/git-2.gif" width=200>
+  <img src="imagenes/git-2.gif" width=200>
+  <img src="imagenes/git-2.gif" width=200>
+  <img src="imagenes/git-2.gif" width=200>
 </div>
 > ¿QUE ES GIT? (https://git-scm.com/)
 
